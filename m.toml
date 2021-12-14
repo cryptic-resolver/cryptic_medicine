@@ -1,0 +1,7 @@
+[mri]
+disp = "MRI"
+desc = "Magnetic Resonance Imaging"
+
+[mdt]
+disp = "MDT"
+desc = "Multidisciplinary Team"

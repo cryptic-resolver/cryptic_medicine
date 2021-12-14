@@ -1,0 +1,7 @@
+[ccu]
+disp = "CCU"
+desc = "Coronary heart disease Care Unit"
+
+[ct]
+disp = "CT"
+desc = "Computed Tomography"
