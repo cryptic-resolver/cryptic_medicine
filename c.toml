@@ -5,3 +5,7 @@ desc = "Coronary heart disease Care Unit"
 [ct]
 disp = "CT"
 desc = "Computed Tomography"
+
+[cpr]
+disp = "CPR"
+desc = "Cardiopulmonary Resuscitation"
