@@ -9,3 +9,7 @@ desc = "Computed Tomography"
 [cpr]
 disp = "CPR"
 desc = "Cardiopulmonary Resuscitation"
+
+[cdc]
+disp = "CDC"
+desc = "Centers for Disease Control and Prevention"
