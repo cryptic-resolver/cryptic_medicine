@@ -1,3 +1,11 @@
 [gcs]
 disp = "GCS"
 desc = "Glasgow Coma Scale"
+
+[gi]
+disp = "GI"
+desc = "Glycemic Index"
+
+[gl]
+disp = "GL"
+desc = "Glycemic Load"
