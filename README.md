@@ -1,4 +1,4 @@
-# cryptic_medicine sheet
+# cryptic_medicine dictionary
 
 medical things explained using [cr: the Cryptic Resolver](https://github.com/cryptic-resolver/cr).
 
@@ -6,6 +6,6 @@ medical things explained using [cr: the Cryptic Resolver](https://github.com/cry
 
 # Layout and format
 
-The sheet's layout and format refers to [cr]'s README.
+The dictionary's layout and format refers to [cr]'s README.
 
 [cr]: https://github.com/cryptic-resolver/cr
