@@ -1,0 +1,4 @@
+[dna]
+disp = "DNA"
+desc = "DeoxyriboNucleic Acid"
+see = ['RNA']
