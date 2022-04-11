@@ -1,11 +1,5 @@
 # cryptic_medicine dictionary
 
-medical things explained using [cr: the Cryptic Resolver](https://github.com/cryptic-resolver/cr).
+medical things explained using [cr: the Cryptic Resolver](https://github.com/cryptic-resolver/cr). Please refer to its README to see the dictionary's layout and format.
 
 <br>
-
-# Layout and format
-
-The dictionary's layout and format refers to [cr]'s README.
-
-[cr]: https://github.com/cryptic-resolver/cr
