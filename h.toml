@@ -1,4 +1,4 @@
 [hpv]
 name = "HPV"
 desc = "Human PapillomaVirus"
-full = "A DNA virus"
+more = "A DNA virus"
