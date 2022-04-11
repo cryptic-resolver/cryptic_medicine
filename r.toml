@@ -1,4 +1,4 @@
 [rna]
-disp = "RNA"
+name = "RNA"
 desc = "RiboNucleic Acid"
 see = ['DNA']

@@ -1,7 +1,7 @@
 [mri]
-disp = "MRI"
+name = "MRI"
 desc = "Magnetic Resonance Imaging"
 
 [mdt]
-disp = "MDT"
+name = "MDT"
 desc = "Multidisciplinary Team"

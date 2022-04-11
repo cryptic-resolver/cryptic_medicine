@@ -1,4 +1,4 @@
 [hpv]
-disp = "HPV"
+name = "HPV"
 desc = "Human PapillomaVirus"
 full = "A DNA virus"

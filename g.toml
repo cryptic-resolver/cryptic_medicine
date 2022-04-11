@@ -1,11 +1,11 @@
 [gcs]
-disp = "GCS"
+name = "GCS"
 desc = "Glasgow Coma Scale"
 
 [gi]
-disp = "GI"
+name = "GI"
 desc = "Glycemic Index"
 
 [gl]
-disp = "GL"
+name = "GL"
 desc = "Glycemic Load"

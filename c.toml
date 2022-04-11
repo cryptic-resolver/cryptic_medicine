@@ -1,15 +1,15 @@
 [ccu]
-disp = "CCU"
+name = "CCU"
 desc = "Coronary heart disease Care Unit"
 
 [ct]
-disp = "CT"
+name = "CT"
 desc = "Computed Tomography"
 
 [cpr]
-disp = "CPR"
+name = "CPR"
 desc = "Cardiopulmonary Resuscitation"
 
 [cdc]
-disp = "CDC"
+name = "CDC"
 desc = "Centers for Disease Control and Prevention"
