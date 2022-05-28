@@ -1,3 +1,7 @@
 [aids]
 name = "AIDS"
 desc = "Acquired Immune Deficiency Syndrome"
+
+[aed]
+name = "AED"
+desc = "Automated External Defibrillator"
