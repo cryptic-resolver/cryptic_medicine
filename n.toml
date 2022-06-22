@@ -1,3 +1,7 @@
 [nfc]
 name = "NFC"
 desc = "Not From Concentrate Juice"
+
+[nrv]
+name = "NRV"
+desc = "Nutrient Reference Values"

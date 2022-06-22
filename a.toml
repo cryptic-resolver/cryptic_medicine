@@ -5,3 +5,7 @@ desc = "Acquired Immune Deficiency Syndrome"
 [aed]
 name = "AED"
 desc = "Automated External Defibrillator"
+
+[atp]
+name = "ATP"
+desc = "Adenosine TriPhosphate"

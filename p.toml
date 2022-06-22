@@ -1,3 +1,7 @@
 [pe]
 name = "PE"
 desc = "Physical Examination"
+
+[pet]
+name = "PET"
+desc = "Positron Emission Tomography"
