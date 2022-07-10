@@ -5,3 +5,7 @@ desc = "Physical Examination"
 [pet]
 name = "PET"
 desc = "Positron Emission Tomography"
+
+[ptsd]
+name = "PTSD"
+desc = "Post-traumatic Stress Disorder"
