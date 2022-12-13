@@ -13,3 +13,7 @@ desc = "Cardiopulmonary Resuscitation"
 [cdc]
 name = "CDC"
 desc = "Centers for Disease Control and Prevention"
+
+[covid]
+name = "COVID-19"
+desc = "Coronavirus disease 2019"
