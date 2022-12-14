@@ -1,0 +1,7 @@
+[br]
+name = "BR"
+desc = "Bilirubin"
+
+[bili]
+name = "BILI"
+same = "BR=>br"
