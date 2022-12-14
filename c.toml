@@ -17,3 +17,7 @@ desc = "Centers for Disease Control and Prevention"
 [covid]
 name = "COVID-19"
 desc = "Coronavirus disease 2019"
+
+[cthb]
+name = "CTHB"
+desc = "Total Concentration of hemoglobin"

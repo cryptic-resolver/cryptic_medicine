@@ -9,3 +9,15 @@ desc = "Positron Emission Tomography"
 [ptsd]
 name = "PTSD"
 desc = "Post-traumatic Stress Disorder"
+
+[ph]
+name = "pH"
+desc = "Potential of Hydrogen"
+
+[po2]
+name = "pO2"
+desc = "Partial Pressure of Oxygen"
+
+[pco2]
+name = "pCO2"
+desc = "Partial Pressure of Carbon Dioxide"

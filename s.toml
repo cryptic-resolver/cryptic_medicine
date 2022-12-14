@@ -1,3 +1,11 @@
 [sp]
 name = "SP"
 desc = "Standardized Patients"
+
+[sao2]
+name = "SaO2"
+same = "so2"
+
+[so2]
+name = "SO2"
+desc = "Oxygen Saturation"

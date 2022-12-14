@@ -2,3 +2,7 @@
 name = "RNA"
 desc = "RiboNucleic Acid"
 see = ['DNA']
+
+[ri]
+name = "RI"
+desc = "Respiratory Index"

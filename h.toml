@@ -2,3 +2,7 @@
 name = "HPV"
 desc = "Human PapillomaVirus"
 more = "A DNA virus"
+
+[hb]
+name = "Hb"
+desc = "hemoglobin"
