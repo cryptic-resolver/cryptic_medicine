@@ -6,3 +6,7 @@ more = "A DNA virus"
 [hb]
 name = "Hb"
 desc = "hemoglobin"
+
+[hdl]
+name = "HDL"
+desc = "High-Density Lipoprotein"
