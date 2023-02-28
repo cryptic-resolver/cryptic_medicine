@@ -1,3 +1,13 @@
 [eicu]
 name = "EICU"
 desc = "Emergency Intensive Care Unit"
+
+[ent]
+same = "E.N.T=>'e.n.t'"
+
+["e.n.t"]
+same = "E.N.T.=>'e.n.t.'"
+
+["e.n.t."]
+name = "E.N.T."
+desc = "Ear Nose Throat"
