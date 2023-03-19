@@ -10,3 +10,7 @@ desc = "hemoglobin"
 [hdl]
 name = "HDL"
 desc = "High-Density Lipoprotein"
+
+[hla]
+name = "HLA"
+desc = "Human Leukocyte Antigen"

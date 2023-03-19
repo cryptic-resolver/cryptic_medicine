@@ -9,3 +9,7 @@ desc = "Automated External Defibrillator"
 [atp]
 name = "ATP"
 desc = "Adenosine TriPhosphate"
+
+[apc]
+name = "APC"
+desc = "Antigen-Presenting Cells"

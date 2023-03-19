@@ -2,3 +2,6 @@
 name = "ICU"
 desc = "Intensive Care Unit"
 
+[ig]
+name = "Ig"
+desc = "Immunoglobulin"
