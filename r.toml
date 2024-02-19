@@ -6,3 +6,7 @@ see = ['DNA']
 [ri]
 name = "RI"
 desc = "Respiratory Index"
+
+[rx]
+name = "Rx"
+desc = "Recipe"

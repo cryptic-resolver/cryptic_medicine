@@ -15,3 +15,7 @@ see = 'LDL'
 [hla]
 name = "HLA"
 desc = "Human Leukocyte Antigen"
+
+[hsv]
+name = "HSV"
+desc = "Herpes Simplex Virus"
