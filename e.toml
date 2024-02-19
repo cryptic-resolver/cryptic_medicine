@@ -11,3 +11,13 @@ same = "E.N.T.=>'e.n.t.'"
 ["e.n.t."]
 name = "E.N.T."
 desc = "Ear Nose Throat"
+
+[ecg]
+name = "ECG"
+desc = "Electrocardiography"
+see = 'EEG'
+
+[eeg]
+name = "EEG"
+desc = "Electroencephalography"
+see = 'ECG'
