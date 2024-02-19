@@ -1,0 +1,4 @@
+[ldl]
+name = "LDL"
+desc = "Low-Density Lipoprotein"
+see = 'HDL'
